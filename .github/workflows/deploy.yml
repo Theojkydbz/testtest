@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/setup-github-pages-M0tjl
   workflow_dispatch:
 
 permissions:
